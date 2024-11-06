@@ -4,7 +4,7 @@
 
 I made this project just for fun
 
-Skills: Python /SPSS/AutoCAD/Microsoft Office/Vissim(Basic)
+Skills: Python /SPSS/AutoCAD/Microsoft Office/SUMO
 
 - 🔭 I’m currently working on different machine-learning algorithms.  
 - 🌱 I’m currently learning Python and Machine learning  
